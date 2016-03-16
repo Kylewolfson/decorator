@@ -1,4 +1,17 @@
 .column {
   float:left;
-  width: 33%;
+  width: 30%;
+  padding: 1.5%;
+}
+
+.redbg {
+  background-color: red;
+}
+
+.greenbg {
+  background-color: green;
+}
+
+.goldbg {
+  background-color: gold;
 }
